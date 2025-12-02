@@ -46,8 +46,8 @@ I'm dedicated to continuous learning and passionate about delivering great user 
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushkumar_2003&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar_2003&layout=compact&theme=radical)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushkumar12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar12&layout=compact&theme=radical)
 
 ---
 
