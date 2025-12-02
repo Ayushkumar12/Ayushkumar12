@@ -12,6 +12,14 @@ I'm dedicated to continuous learning and passionate about delivering great user 
 
 ---
 
+## 💫 Live Projects
+
+**Mehryaan**, https://mehryan-e-commerce.vercel.app/
+
+[![Mehryaan](https://img.shields.io/badge/Mehryaan-%23E4405F.svg?&logoColor=white)](https://mehryan-e-commerce.vercel.app/)
+
+---
+
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushkumar_2003)
@@ -25,10 +33,6 @@ I'm dedicated to continuous learning and passionate about delivering great user 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
