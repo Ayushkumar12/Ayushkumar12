@@ -32,7 +32,6 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <!-- Project Card 1 -->
     <div style="background: #FFFFFF; border-radius: 16px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); padding: 20px; width: 300px; text-align: center; transition: transform 0.3s; transform: translateY(0);">
       <h3 style="font-family: 'Roboto', sans-serif; color: #1976D2; margin-bottom: 10px;">Mehryaan</h3>
       <p style="font-family: 'Roboto', sans-serif; color: #616161; font-size: 14px; margin-bottom: 15px;">
@@ -46,8 +45,6 @@
       <br><br>
       <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d9/fa/1b/lost-valley.jpg?w=1200&h=-1&s=1" alt="Mehryaan Screenshot" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     </div>
-    
-    <!-- Project Card 2 -->
     <div style="background: #FFFFFF; border-radius: 16px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); padding: 20px; width: 300px; text-align: center; transition: transform 0.3s; transform: translateY(0);">
       <h3 style="font-family: 'Roboto', sans-serif; color: #1976D2; margin-bottom: 10px;">Project Two</h3>
       <p style="font-family: 'Roboto', sans-serif; color: #616161; font-size: 14px; margin-bottom: 15px;">
@@ -61,8 +58,6 @@
       <br><br>
       <img src="https://via.placeholder.com/300x200?text=Screenshot" alt="Project Two Screenshot" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     </div>
-    
-    <!-- Project Card 3 -->
     <div style="background: #FFFFFF; border-radius: 16px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); padding: 20px; width: 300px; text-align: center; transition: transform 0.3s; transform: translateY(0);">
       <h3 style="font-family: 'Roboto', sans-serif; color: #1976D2; margin-bottom: 10px;">Project Three</h3>
       <p style="font-family: 'Roboto', sans-serif; color: #616161; font-size: 14px; margin-bottom: 15px;">
