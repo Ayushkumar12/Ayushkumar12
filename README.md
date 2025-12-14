@@ -40,28 +40,25 @@
 
 <br/>
 
+<br/>
+
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>🔭 Current Status</h3>
-        <ul>
-          <li><b>Working on:</b> Exciting large-scale projects</li>
-          <li><b>Eager to:</b> Collaborate on Open Source</li>
-          <li><b>Talk to me about:</b> React, Node.js,</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-         <h3>⚡ Quick Bits</h3>
-        <ul>
-          <li><b>Philosophy:</b> "Code is art."</li>
-          <li><b>Favourite Stack:</b> React</li>
-          <li><b>Hobbies:</b>  Gaming</li>
-          <li><b>Contact:</b> ayushk5961@gmail.com</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <h3>🔭 Current Status</h3>
+  <ul align="left" style="display: inline-block; text-align: left;">
+    <li><b>Working on:</b> Exciting large-scale projects</li>
+    <li><b>Eager to:</b> Collaborate on Open Source</li>
+    <li><b>Talk to me about:</b> React, Node.js, AI</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>⚡ Quick Bits</h3>
+  <ul align="left" style="display: inline-block; text-align: left;">
+    <li><b>Philosophy:</b> "Code is art."</li>
+    <li><b>Favourite Stack:</b> React</li>
+    <li><b>Hobbies:</b> Gaming</li>
+    <li><b>Contact:</b> ayushk5961@gmail.com</li>
+  </ul>
 </div>
 
 <br/>
@@ -77,45 +74,47 @@
 <!-- Live Projects -->
 <h3 align="center">🧩 Live Projects</h3>
 <div align="center">
-  <table>
-    <tr align="center">
-      <!-- Project 1 -->
-      <td >
-        <h4>Mehryaan</h4>
-        <img src="mehryaan.png" alt="Project 1" width="500px" />
-        <br/>
-        <p>
-          An e-commerce platform built with React.js for a seamless shopping experience.
-        </p>
-        <a href="https://mehryan-e-commerce.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </td>
-      <!-- Project 2 -->
-      <td>
-        <h4>CodeCircle</h4>
-        <img src="codecircle.png" alt="Project 2" width="500px" />
-        <br/>
-        <p>
-          CodeCircle is a comprehensive social platform designed specifically for developers. 
-        </p>
-        <a href="https://code-circle-jade.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </td>
-      <td>
-        <h4>Delightio</h4>
-        <img src="delightio.png" alt="Project 2" width="500px" />
-        <br/>
-        <p>
-          Delightio is a web-based ordering experience for in-restaurant diners.
-        </p>
-        <a href="https://delightio.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+  <!-- Project 1 -->
+  <div>
+    <h4>Mehryaan</h4>
+    <a href="https://mehryan-e-commerce.vercel.app/">
+      <img src="mehryaan.png" alt="Mehryaan" width="90%" style="border-radius: 10px;" />
+    </a>
+    <p>An e-commerce platform built with React.js for a seamless shopping experience.</p>
+    <a href="https://mehryan-e-commerce.vercel.app/">
+      <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </div>
+
+  <br/><br/>
+
+  <!-- Project 2 -->
+  <div>
+    <h4>CodeCircle</h4>
+    <a href="https://code-circle-jade.vercel.app/">
+      <img src="codecircle.png" alt="CodeCircle" width="90%" style="border-radius: 10px;" />
+    </a>
+    <p>CodeCircle is a comprehensive social platform designed specifically for developers.</p>
+    <a href="https://code-circle-jade.vercel.app/">
+      <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </div>
+
+  <br/><br/>
+
+  <!-- Project 3 -->
+  <div>
+    <h4>Delightio</h4>
+    <a href="https://delightio.vercel.app/">
+      <img src="delightio.png" alt="Delightio" width="90%" style="border-radius: 10px;" />
+    </a>
+    <p>Delightio is a web-based ordering experience for in-restaurant diners.</p>
+    <a href="https://delightio.vercel.app/">
+      <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </div>
+
 </div>
 
 <br/>
@@ -123,11 +122,20 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar12&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar12&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&langs_count=8" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayushkumar12&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ayushkumar12&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar12&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&langs_count=8">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar12&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8" />
+  </picture>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar12&theme=midnight-purple&hide_border=true&background=00000000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar12&theme=midnight-purple&hide_border=true&background=00000000">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar12&theme=default&hide_border=true&background=00000000" />
+  </picture>
 </div>
 
 <br/>
