@@ -73,29 +73,16 @@ An e-commerce platform built with React.js – check it out for a seamless shopp
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushkumar_2003&theme=radical" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🔝 Top Contributed Repo
 
 <p align="center">
   <a href="https://github.com/Ayushkumar12/Tech-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar12&repo=Tech-Store&theme=radical" alt="Tech-Store Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar12&theme=radical" alt="Tech-Store Repo">
   </a>
 </p>
 
----
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayushkumar_2003&icon=0&color=0" alt="Visitor Count" />
-</div>
-
----
 
 <div align="center">
   <h3>💖 Thanks for visiting! Let's build something amazing together. 💖</h3>
