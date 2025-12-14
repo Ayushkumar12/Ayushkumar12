@@ -28,11 +28,7 @@ I'm dedicated to continuous learning and passionate about delivering great user 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://mehryan-e-commerce.vercel.app/">
-          <img src="https://img.shields.io/badge/Mehryaan-%23E4405F.svg?&logoColor=white&style=for-the-badge" alt="Mehryaan Badge">
-        </a>
-        <br>
+      <td align="center" width="30%">
         <strong>Mehryaan</strong>
         <br>
         <em>An e-commerce platform built with React.js for a seamless shopping experience.</em>
@@ -41,8 +37,29 @@ I'm dedicated to continuous learning and passionate about delivering great user 
           <img src="https://img.shields.io/badge/View%20Live-🚀-brightgreen?style=flat-square" alt="View Live">
         </a>
         <br>
-        <!-- Optional: Add a screenshot if you have one -->
-        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d9/fa/1b/lost-valley.jpg?w=1200&h=-1&s=1" alt="Mehryaan Screenshot" width="300"> 
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d9/fa/1b/lost-valley.jpg?w=1200&h=-1&s=1" alt="Mehryaan Screenshot" width="250">
+      </td>
+      <td align="center" width="30%">
+        <strong>Project Two</strong>
+        <br>
+        <em>Description of your second project.</em>
+        <br>
+        <a href="https://your-second-project-link.com" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Live-🚀-brightgreen?style=flat-square" alt="View Live">
+        </a>
+        <br>
+        <img src="https://via.placeholder.com/250x150?text=Screenshot" alt="Project Two Screenshot" width="250">
+      </td>
+      <td align="center" width="30%">
+        <strong>Project Three</strong>
+        <br>
+        <em>Description of your third project.</em>
+        <br>
+        <a href="https://your-third-project-link.com" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Live-🚀-brightgreen?style=flat-square" alt="View Live">
+        </a>
+        <br>
+        <img src="https://via.placeholder.com/250x150?text=Screenshot" alt="Project Three Screenshot" width="250">
       </td>
     </tr>
   </table>
