@@ -42,7 +42,7 @@ I'm dedicated to continuous learning and passionate about delivering great user 
         </a>
         <br>
         <!-- Optional: Add a screenshot if you have one -->
-        <!-- <img src="path/to/screenshot.png" alt="Mehryaan Screenshot" width="300"> -->
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/d9/fa/1b/lost-valley.jpg?w=1200&h=-1&s=1" alt="Mehryaan Screenshot" width="300"> 
       </td>
     </tr>
   </table>
