@@ -25,10 +25,28 @@ I'm dedicated to continuous learning and passionate about delivering great user 
 
 ## 💫 Live Projects
 
-### 🚀 [Mehryaan](https://mehryan-e-commerce.vercel.app/)
-[![Mehryaan](https://img.shields.io/badge/Mehryaan-%23E4405F.svg?&logoColor=white)](https://mehryan-e-commerce.vercel.app/)  
-An e-commerce platform built with React.js – check it out for a seamless shopping experience!
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://mehryan-e-commerce.vercel.app/">
+          <img src="https://img.shields.io/badge/Mehryaan-%23E4405F.svg?&logoColor=white&style=for-the-badge" alt="Mehryaan Badge">
+        </a>
+        <br>
+        <strong>Mehryaan</strong>
+        <br>
+        <em>An e-commerce platform built with React.js for a seamless shopping experience.</em>
+        <br>
+        <a href="https://mehryan-e-commerce.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Live-🚀-brightgreen?style=flat-square" alt="View Live">
+        </a>
+        <br>
+        <!-- Optional: Add a screenshot if you have one -->
+        <!-- <img src="path/to/screenshot.png" alt="Mehryaan Screenshot" width="300"> -->
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🌐 Connect with Me
@@ -72,16 +90,6 @@ An e-commerce platform built with React.js – check it out for a seamless shopp
 </div>
 
 ---
-
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <a href="https://github.com/Ayushkumar12/Tech-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushkumar12&theme=radical" alt="Tech-Store Repo">
-  </a>
-</p>
-
 
 
 <div align="center">
